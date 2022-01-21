@@ -1,3 +1,4 @@
 # AzureFunctionDemo
 
-Addewd WenHook to notify Azure of code changes.
+Addwed WenHook to notify Azure of code changes.
+Captured Respopnse from GetHub
